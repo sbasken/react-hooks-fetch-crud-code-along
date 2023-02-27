@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Chocolate",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Chocolate",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
