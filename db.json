@@ -31,22 +31,16 @@
       "isInCart": false
     },
     {
-      "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 6
     },
     {
       "name": "Chocolate",
       "category": "Dessert",
       "isInCart": false,
       "id": 7
-    },
-    {
-      "name": "Chocolate",
-      "category": "Dessert",
-      "isInCart": false,
-      "id": 8
     }
   ]
 }
